@@ -1,0 +1,92 @@
+2023-12-28 10:57:07,715 INFO [main] c.r.m.Application [Application.java:31] -- Application Started Application
+2023-12-28 10:57:34,378 INFO [main] c.r.m.Application [Application.java:31] -- Application Started Application
+2023-12-28 11:40:11,673 INFO [main] c.r.m.Application [Application.java:31] -- Application Started Application
+2023-12-28 11:40:14,173 INFO [main] c.r.s.DatabaseConnection [DatabaseConnection.java:25] -- Database connection established DatabaseConnection
+2023-12-28 11:40:23,187 INFO [main] c.r.m.Application [Application.java:65] -- Successfully logged in of the Application
+2023-12-28 11:40:59,729 INFO [main] c.r.m.Application [Application.java:221] -- Logging out of the Application
+2023-12-28 12:43:45,604 INFO [main] c.r.m.Application [Application.java:31] -- Application Started Application
+2023-12-28 12:43:48,907 INFO [main] c.r.s.DatabaseConnection [DatabaseConnection.java:25] -- Database connection established DatabaseConnection
+2023-12-28 12:43:59,667 INFO [main] c.r.m.Application [Application.java:65] -- Successfully logged in of the Application
+2023-12-28 12:44:02,163 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:147] -- returning records of the customer
+2023-12-28 12:44:02,175 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:46] -- returning plans records of the customer
+2023-12-28 12:44:06,148 INFO [main] c.r.m.Application [Application.java:221] -- Logging out of the Application
+2023-12-28 13:19:14,603 INFO [main] c.r.m.Application [Application.java:31] -- Application Started Application
+2023-12-28 13:19:18,098 INFO [main] c.r.s.DatabaseConnection [DatabaseConnection.java:25] -- Database connection established DatabaseConnection
+2023-12-28 13:19:28,441 INFO [main] c.r.m.Application [Application.java:65] -- Successfully logged in of the Application
+2023-12-28 13:19:31,009 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:147] -- returning records of the customer
+2023-12-28 14:06:08,569 INFO [main] c.r.m.Application [Application.java:31] -- Application Started Application
+2023-12-28 14:06:12,615 INFO [main] c.r.s.DatabaseConnection [DatabaseConnection.java:25] -- Database connection established DatabaseConnection
+2023-12-28 14:07:01,981 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:37] -- new user got registered 
+2023-12-28 14:07:31,794 INFO [main] c.r.m.Application [Application.java:65] -- Successfully logged in of the Application
+2023-12-28 14:07:34,966 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:147] -- returning records of the customer
+2023-12-28 14:07:42,007 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 14:07:42,008 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 14:07:42,008 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 14:07:42,009 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 14:07:42,009 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 14:07:51,678 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 14:07:51,679 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 14:07:51,679 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 14:07:51,679 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 14:07:51,679 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 14:08:00,098 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:117] -- plan added successfully
+2023-12-28 14:08:03,236 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:46] -- returning plans records of the customer
+2023-12-28 14:08:05,732 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:137] -- Deletion successfully
+2023-12-28 14:08:07,663 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:147] -- returning records of the customer
+2023-12-28 15:37:26,934 INFO [main] c.r.m.Application [Application.java:31] -- Application Started Application
+2023-12-28 15:37:29,911 INFO [main] c.r.s.DatabaseConnection [DatabaseConnection.java:25] -- Database connection established DatabaseConnection
+2023-12-28 15:37:41,925 INFO [main] c.r.m.Application [Application.java:65] -- Successfully logged in of the Application
+2023-12-28 15:37:45,162 INFO [main] c.r.m.Application [Application.java:220] -- Logging out of the Application
+2023-12-28 15:37:52,427 INFO [main] c.r.m.Application [Application.java:31] -- Application Started Application
+2023-12-28 16:00:31,976 INFO [main] c.r.m.Application [Application.java:31] -- Application Started Application
+2023-12-28 16:00:38,633 INFO [main] c.r.s.DatabaseConnection [DatabaseConnection.java:25] -- Database connection established DatabaseConnection
+2023-12-28 16:02:17,210 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:37] -- new user got registered 
+2023-12-28 16:03:15,809 INFO [main] c.r.m.Application [Application.java:65] -- Successfully logged in of the Application
+2023-12-28 16:03:34,954 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:147] -- returning records of the customer
+2023-12-28 16:04:28,216 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:87] -- User got Updated
+2023-12-28 16:04:35,351 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:147] -- returning records of the customer
+2023-12-28 16:04:43,003 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 16:04:43,004 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 16:04:43,004 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 16:04:43,004 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 16:04:43,004 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 16:05:14,918 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 16:05:14,919 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 16:05:14,919 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 16:05:14,919 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 16:05:14,920 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 16:05:23,560 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:117] -- plan added successfully
+2023-12-28 16:05:28,304 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:46] -- returning plans records of the customer
+2023-12-28 16:05:35,805 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:46] -- returning plans records of the customer
+2023-12-28 16:06:41,749 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:137] -- Deletion successfully
+2023-12-28 16:07:04,629 INFO [main] c.r.m.Application [Application.java:220] -- Logging out of the Application
+2023-12-28 16:07:40,092 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:37] -- new user got registered 
+2023-12-28 16:07:40,117 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:87] -- User got Updated
+2023-12-28 16:07:40,156 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:147] -- returning records of the customer
+2023-12-28 16:08:14,322 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:37] -- new user got registered 
+2023-12-28 16:08:14,349 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:87] -- User got Updated
+2023-12-28 16:08:14,378 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:147] -- returning records of the customer
+2023-12-28 16:08:45,507 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:37] -- new user got registered 
+2023-12-28 16:08:45,536 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:87] -- User got Updated
+2023-12-28 16:08:45,564 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:147] -- returning records of the customer
+2023-12-28 16:16:02,738 INFO [main] c.r.m.Application [Application.java:31] -- Application Started Application
+2023-12-28 16:16:05,976 INFO [main] c.r.s.DatabaseConnection [DatabaseConnection.java:25] -- Database connection established DatabaseConnection
+2023-12-28 16:16:14,862 INFO [main] c.r.m.Application [Application.java:65] -- Successfully logged in of the Application
+2023-12-28 16:16:31,358 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 16:16:31,360 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 16:16:31,360 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 16:16:31,360 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 16:16:31,360 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:75] -- returning all plan records of the customer
+2023-12-28 16:16:37,230 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:117] -- plan added successfully
+2023-12-28 16:16:41,102 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:46] -- returning plans records of the customer
+2023-12-28 16:16:44,475 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:46] -- returning plans records of the customer
+2023-12-28 16:17:46,275 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:46] -- returning plans records of the customer
+2023-12-30 10:44:26,534 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:117] -- plan added successfully
+2023-12-30 10:44:26,564 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:96] -- Update plan successful
+2023-12-30 10:44:26,576 INFO [main] c.r.d.PlanDao_Impl [PlanDao_Impl.java:137] -- Deletion successfully
+2023-12-30 10:44:34,115 INFO [main] c.r.m.Application [Application.java:31] -- Application Started Application
+2023-12-30 10:45:39,022 INFO [main] c.r.s.DatabaseConnection [DatabaseConnection.java:25] -- Database connection established DatabaseConnection
+2023-12-30 10:45:50,981 INFO [main] c.r.m.Application [Application.java:65] -- Successfully logged in of the Application
+2023-12-30 10:45:54,053 INFO [main] c.r.d.CustomerDao_Impl [CustomerDao_Impl.java:147] -- returning records of the customer
+2023-12-30 10:46:00,082 INFO [main] c.r.m.Application [Application.java:220] -- Logging out of the Application
+2023-12-30 10:46:20,841 ERROR [main] c.r.m.Application [Application.java:321] -- Entered invalid input in Main page
